@@ -1,0 +1,19 @@
+{
+  "name": "next-on-pages-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "vercel-build": "next build",
+    "dev": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudflare/next-on-pages": "^0.0.0-4572873",
+    "next": "^13.5.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuidv7": "^0.6.3"
+  }
+}
